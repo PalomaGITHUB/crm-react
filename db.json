@@ -1,0 +1,68 @@
+{
+  "clientes": [
+    {
+      "id": "490b",
+      "nombre": "Paula Smith",
+      "empresa": "Google",
+      "email": "psmith@googletech.com",
+      "telefono": "+001-234-567-8901",
+      "notas": "Desea contactar con un responsable de IT."
+    },
+    {
+      "nombre": "Marcus Mahomes",
+      "empresa": "Apple",
+      "email": "mmahomes@applecorptech.com",
+      "telefono": "+001-345-678-9012",
+      "notas": "Urgente. Llamar solo de lunes a jueves en horario de 9:00h a 14:00h. ",
+      "id": "9b36"
+    },
+    {
+      "id": "fefc",
+      "nombre": "Curtis Kendrick",
+      "empresa": "Sony",
+      "email": "ck@sonycorp.com",
+      "telefono": "+001-789-012-3456",
+      "notas": "Pide información sobre tarifas junio 2024."
+    },
+    {
+      "id": "7020",
+      "nombre": "Olivia Baker",
+      "empresa": "X (Twitter)",
+      "email": "obaker@twittercorp.com",
+      "telefono": "+001-456-789-0123",
+      "notas": "Pide hablar con responsable del departamento de diseño web. "
+    },
+    {
+      "id": "1f29",
+      "nombre": "Elian González",
+      "empresa": "Nvidia",
+      "email": "egonzalez@nvidiacorp.com",
+      "telefono": "+001-567-890-1234",
+      "notas": "Cliente exclusivo. Contactar de 15:00h a 22:00h."
+    },
+    {
+      "id": "c33e",
+      "nombre": "Pablo Enoc",
+      "empresa": "Puma",
+      "email": "enocpablo@pumacorp.com",
+      "telefono": "+001-123-456-7890",
+      "notas": "Ninguna nota de interés."
+    },
+    {
+      "id": "7ab5",
+      "nombre": "James Rodríguez",
+      "empresa": "LinkedIn",
+      "email": "jrodriguez@linkedin.com",
+      "telefono": "+001-123-456-7890",
+      "notas": "Urgente. Viernes 18:00h."
+    },
+    {
+      "id": "bdbb",
+      "nombre": "Michael Johnson",
+      "empresa": "Rockstar",
+      "email": "mikejohnson@rockstar.com",
+      "telefono": "+001-012-345-6789",
+      "notas": "Departamento de diseño web. Contactar de 9:00h a 13:00h."
+    }
+  ]
+}
